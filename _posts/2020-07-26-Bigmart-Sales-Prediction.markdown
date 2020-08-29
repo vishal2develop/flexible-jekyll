@@ -51,6 +51,8 @@ tags: [Data-Science, Machine Learning]
 
 ![Sales Prediction]({{site.baseurl}}/assets/img/collage.png)
 
+
+
 ### Models Built:
 
 | Models                    | R<sup>2</sup>          | RMSE           | MAE              |
