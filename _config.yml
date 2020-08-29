@@ -11,12 +11,14 @@ site-twitter: "https://twitter.com/vish98950"#if your site has a twitter account
 # Author Settings
 author: Vishal Borana # add your name
 author-img: vishal_borana.png # add your photo
-about-author: I am a software developer focusing on Data Science, Machine Learning and Cloud Technologies. A Life-Long learner. # add description
+about-author: Hey, &hearts; from India. I'm a Software Developer with a knack for UI and data. Jack of all Trades, in a quest to be master of some.
+   # add description
 social-twitter: "https://twitter.com/vish98950"# add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: vishal2develop # add your Github handle
 social-linkedin: "https://www.linkedin.com/in/vishal-borana/"# add your Linkedin handle
-social-email: "vishalborana2407@gmail.com"# add your Email address
+social-email: "vishalborana2407@gmail.com" # add your Email address
+#social-medium: "https://medium.com/@vish98950"
 
 # Disqus
 discus-identifier: BreakingCode # add your discus identifier

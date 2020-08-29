@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bigmart Sales Prediction"
-date: 2020-08-12 13:32:20 +0300
+date: 2020-08-26 13:32:20 +0300
 description: Using Data Science & Machine Learning to predict the sales at Bigmart. # Add post description (optional)
 
 
